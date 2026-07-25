@@ -149,3 +149,15 @@ LeetCode: https://leetcode.com/u/code_rahees
 **Happy Coding! 🚀**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+<!---LeetCode Topics End-->
