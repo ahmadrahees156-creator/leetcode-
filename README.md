@@ -163,6 +163,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -172,6 +173,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
