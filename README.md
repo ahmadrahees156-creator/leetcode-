@@ -155,6 +155,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
@@ -171,6 +172,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0476-number-complement](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0476-number-complement/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -204,4 +206,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
