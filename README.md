@@ -180,6 +180,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## String
@@ -226,4 +227,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0338-counting-bits/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
