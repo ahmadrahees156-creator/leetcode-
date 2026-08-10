@@ -184,6 +184,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -212,4 +213,12 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
