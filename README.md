@@ -157,6 +157,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -179,6 +180,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0338-counting-bits/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0476-number-complement/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
@@ -197,6 +199,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0058-length-of-last-word/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
