@@ -186,6 +186,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
@@ -254,5 +255,6 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 <!---LeetCode Topics End-->
