@@ -13,8 +13,8 @@ public:
     }
 
     vector<int> ans;
-    for(int x:arr1)  ans.push_back(x);
-    for(int y: arr2)  ans.push_back(y);
+    for(int i=0;i<arr1.size();i++)  ans.push_back(arr1[i]);
+    for(int j=0;j<arr2.size();j++)  ans.push_back(arr2[j]);
 
     return ans;
     }
