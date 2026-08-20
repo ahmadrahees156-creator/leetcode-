@@ -172,6 +172,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2235-add-two-integers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
