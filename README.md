@@ -166,6 +166,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0728-self-dividing-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
