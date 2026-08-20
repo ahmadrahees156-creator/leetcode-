@@ -176,6 +176,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3516-find-closest-person](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
