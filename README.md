@@ -161,6 +161,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
+| [0509-fibonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -240,6 +241,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +254,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0338-counting-bits/) | Easy |
+| [0509-fibonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +281,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
