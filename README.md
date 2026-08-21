@@ -188,6 +188,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
+| [3959-check-good-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3959-check-good-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2180-count-integers-with-even-digit-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
+| [3959-check-good-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3959-check-good-integer/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
