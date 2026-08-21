@@ -157,6 +157,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
+| [0263-ugly-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
