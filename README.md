@@ -190,6 +190,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
+| [3895-count-digit-appearances](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3895-count-digit-appearances/) | Medium |
 | [3959-check-good-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3959-check-good-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -229,6 +230,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3895-count-digit-appearances](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3895-count-digit-appearances/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
