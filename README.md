@@ -178,6 +178,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2413-smallest-even-multiple](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -225,6 +226,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
