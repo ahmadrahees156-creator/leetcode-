@@ -219,6 +219,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0001-two-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0027-remove-element/) | Easy |
+| [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -330,4 +331,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
