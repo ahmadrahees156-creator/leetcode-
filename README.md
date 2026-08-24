@@ -189,6 +189,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3536-maximum-product-of-two-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3895-count-digit-appearances/) | Medium |
