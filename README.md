@@ -234,6 +234,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3895-count-digit-appearances/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
