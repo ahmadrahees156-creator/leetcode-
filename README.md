@@ -219,6 +219,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
@@ -278,6 +279,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -322,6 +324,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0191-number-of-1-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
