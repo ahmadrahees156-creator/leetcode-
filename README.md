@@ -212,6 +212,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0338-counting-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0338-counting-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0476-number-complement/) | Easy |
+| [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Array
@@ -223,6 +224,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -253,6 +255,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
+| [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -301,6 +304,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Prefix Sum
@@ -343,6 +347,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
