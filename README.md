@@ -242,6 +242,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3895-count-digit-appearances](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3895-count-digit-appearances/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,4 +357,9 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
