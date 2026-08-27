@@ -12,8 +12,7 @@ public:
 
          for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                int x=mat[i][j];
-                arr.push_back(x);
+                arr.push_back(mat[i][j]);
 
                 if(arr.size()==c){
                     ans.push_back(arr);
