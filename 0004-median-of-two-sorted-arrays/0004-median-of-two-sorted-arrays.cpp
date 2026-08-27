@@ -14,7 +14,6 @@ public:
             merge[k]=nums2[j];
             k++;
         }
-
         sort(merge.begin(),merge.end());
      int total=m+n;
      if(total%2==0)   return (merge[total/2 -1]+merge[total/2])/2.0;
