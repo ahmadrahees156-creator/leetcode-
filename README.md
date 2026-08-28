@@ -170,6 +170,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1137-n-th-tribonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -216,6 +217,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0476-number-complement](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Array
 | Problem Name | Difficulty |
