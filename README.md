@@ -194,6 +194,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3783-mirror-distance-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3895-count-digit-appearances/) | Medium |
+| [3945-digit-frequency-score](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3945-digit-frequency-score/) | Easy |
 | [3959-check-good-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3959-check-good-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -326,6 +327,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3945-digit-frequency-score](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3945-digit-frequency-score/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
