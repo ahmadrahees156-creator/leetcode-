@@ -157,6 +157,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0263-ugly-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
@@ -231,6 +232,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
+| [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
@@ -289,6 +291,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -355,6 +358,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -381,4 +385,16 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
