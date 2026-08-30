@@ -239,6 +239,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1480-running-sum-of-1d-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -372,4 +373,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 <!---LeetCode Topics End-->
