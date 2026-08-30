@@ -261,6 +261,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -335,6 +336,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3945-digit-frequency-score/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
