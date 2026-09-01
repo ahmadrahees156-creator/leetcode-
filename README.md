@@ -172,6 +172,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0989-add-to-array-form-of-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1323-maximum-69-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1518-water-bottles](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1518-water-bottles/) | Easy |
@@ -393,6 +394,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1323-maximum-69-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1323-maximum-69-number/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
