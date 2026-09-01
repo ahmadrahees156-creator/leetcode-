@@ -165,6 +165,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0728-self-dividing-numbers/) | Easy |
