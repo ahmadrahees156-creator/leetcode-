@@ -239,6 +239,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
@@ -332,6 +333,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0283-move-zeroes/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
