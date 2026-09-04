@@ -191,6 +191,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3099-harshad-number/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3516-find-closest-person/) | Easy |
@@ -273,6 +274,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0504-base-7/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
