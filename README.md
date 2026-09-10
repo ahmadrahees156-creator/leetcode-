@@ -174,6 +174,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1323-maximum-69-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1518-water-bottles](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1518-water-bottles/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -279,6 +280,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0504-base-7/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3110-score-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3280-convert-date-to-binary/) | Easy |
@@ -385,6 +387,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
+| [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -424,4 +427,12 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
 <!---LeetCode Topics End-->
