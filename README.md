@@ -156,6 +156,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
@@ -244,6 +245,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0283-move-zeroes/) | Easy |
@@ -336,6 +338,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
