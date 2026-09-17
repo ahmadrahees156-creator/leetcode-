@@ -247,6 +247,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0027-remove-element](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -303,6 +304,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -415,6 +417,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0048-rotate-image/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
