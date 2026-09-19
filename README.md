@@ -221,6 +221,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -270,6 +271,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -436,6 +438,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1323-maximum-69-number/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
