@@ -217,6 +217,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -255,6 +256,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0283-move-zeroes/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -384,6 +386,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0001-two-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
