@@ -300,6 +300,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -319,6 +320,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -355,6 +357,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
