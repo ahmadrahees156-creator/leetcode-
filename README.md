@@ -304,6 +304,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3110-score-of-a-string/) | Easy |
+| [3174-clear-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3174-clear-digits/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -324,6 +325,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2180-count-integers-with-even-digit-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3174-clear-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3174-clear-digits/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
@@ -362,6 +364,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3174-clear-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3174-clear-digits/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
