@@ -268,6 +268,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1480-running-sum-of-1d-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -299,6 +300,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -400,6 +402,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
