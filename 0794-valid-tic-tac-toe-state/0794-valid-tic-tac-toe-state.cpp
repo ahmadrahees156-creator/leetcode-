@@ -41,7 +41,6 @@ public:
                 owin = true;
         }
         
-        // diagonals
         if(board[0][0] == 'X' &&
            board[1][1] == 'X' &&
            board[2][2] == 'X')
