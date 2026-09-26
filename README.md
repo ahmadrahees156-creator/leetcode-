@@ -261,6 +261,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0794-valid-tic-tac-toe-state](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -445,6 +446,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0059-spiral-matrix-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0794-valid-tic-tac-toe-state](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
