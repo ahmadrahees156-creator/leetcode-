@@ -253,6 +253,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0074-search-a-2d-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0283-move-zeroes/) | Easy |
@@ -352,6 +353,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
