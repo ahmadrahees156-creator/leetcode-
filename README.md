@@ -263,6 +263,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -324,6 +325,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1518-water-bottles](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1518-water-bottles/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -369,6 +371,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
