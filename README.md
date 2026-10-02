@@ -297,6 +297,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0058-length-of-last-word/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
@@ -383,12 +384,14 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0338-counting-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -449,6 +452,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
