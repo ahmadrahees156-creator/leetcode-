@@ -271,6 +271,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -367,6 +368,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +468,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0794-valid-tic-tac-toe-state](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
