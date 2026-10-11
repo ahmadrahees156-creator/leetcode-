@@ -286,6 +286,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -367,6 +368,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0204-count-primes/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
