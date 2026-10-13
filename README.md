@@ -306,6 +306,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0058-length-of-last-word/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
@@ -421,6 +422,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0027-remove-element](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
