@@ -268,6 +268,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0739-daily-temperatures](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -393,6 +394,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0739-daily-temperatures](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -532,4 +534,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
