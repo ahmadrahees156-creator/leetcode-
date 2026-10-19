@@ -225,6 +225,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0922-sort-array-by-parity-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2966-divide-array-into-arrays-with-max-difference/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -285,6 +286,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -385,6 +387,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0367-valid-perfect-square](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0367-valid-perfect-square/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
