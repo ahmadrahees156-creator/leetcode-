@@ -222,6 +222,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -273,6 +274,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0739-daily-temperatures](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0739-daily-temperatures/) | Medium |
 | [0794-valid-tic-tac-toe-state](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0794-valid-tic-tac-toe-state/) | Medium |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -365,10 +367,12 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Enumeration
@@ -463,6 +467,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0004-median-of-two-sorted-arrays](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0191-number-of-1-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -544,4 +549,16 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0739-daily-temperatures/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
