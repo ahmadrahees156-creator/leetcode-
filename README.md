@@ -220,6 +220,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -319,6 +320,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0020-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
@@ -463,6 +465,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0073-set-matrix-zeroes](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0791-custom-sort-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1512-number-of-good-pairs/) | Easy |
