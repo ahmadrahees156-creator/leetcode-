@@ -221,6 +221,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -243,6 +244,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0201-bitwise-and-of-numbers-range](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0338-counting-bits/) | Easy |
+| [0389-find-the-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0476-number-complement](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0476-number-complement/) | Easy |
 | [0832-flipping-an-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0832-flipping-an-image/) | Easy |
@@ -322,6 +324,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0058-length-of-last-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0389-find-the-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0415-add-strings/) | Easy |
@@ -468,6 +471,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0242-valid-anagram/) | Easy |
+| [0389-find-the-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0791-custom-sort-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1512-number-of-good-pairs/) | Easy |
