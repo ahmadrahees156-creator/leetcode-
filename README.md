@@ -155,6 +155,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0202-happy-number/) | Easy |
