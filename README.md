@@ -342,6 +342,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -429,6 +430,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0946-validate-stack-sequences](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
