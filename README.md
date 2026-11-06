@@ -304,6 +304,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2089-find-target-indices-after-sorting-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -372,6 +373,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1518-water-bottles](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1518-water-bottles/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -469,6 +471,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0977-squares-of-a-sorted-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
