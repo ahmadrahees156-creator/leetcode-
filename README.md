@@ -255,6 +255,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -356,6 +357,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2390-removing-stars-from-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3174-clear-digits/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -532,6 +534,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0046-permutations/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
