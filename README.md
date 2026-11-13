@@ -255,6 +255,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Array
@@ -309,6 +310,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -529,6 +531,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
