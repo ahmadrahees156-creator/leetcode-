@@ -302,6 +302,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -351,6 +352,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1447-simplified-fractions](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1447-simplified-fractions/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
