@@ -368,6 +368,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [3498-reverse-degree-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3894-traffic-signal-color](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3894-traffic-signal-color/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -486,6 +487,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [2000-reverse-prefix-of-word](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
