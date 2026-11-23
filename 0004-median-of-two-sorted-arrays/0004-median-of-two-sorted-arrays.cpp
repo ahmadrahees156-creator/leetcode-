@@ -7,7 +7,7 @@ public:
         vector<int> merge(m+n);
          int k=0;
         for(int i=0;i<m;i++){
-            merge[i]=nums1[i];
+            merge[k]=nums1[i];
           k++;
         }
         for(int j=0;j<n;j++){
