@@ -346,6 +346,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0539-minimum-time-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0539-minimum-time-difference/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -507,6 +508,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0349-intersection-of-two-arrays](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0771-jewels-and-stones](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0791-custom-sort-string/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
