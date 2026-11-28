@@ -348,6 +348,7 @@ LeetCode: https://leetcode.com/u/code_rahees
 | [0709-to-lower-case](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0791-custom-sort-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0791-custom-sort-string/) | Medium |
+| [0796-rotate-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -624,4 +625,8 @@ LeetCode: https://leetcode.com/u/code_rahees
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ahmadrahees156-creator/leetcode-/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
